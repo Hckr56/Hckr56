@@ -1,38 +1,32 @@
-# Salut, je suis [TonPseudo] 👋
+# Salut, je suis <b>[TonPseudo]</b> 👋
 
-Bienvenue sur mon profil GitHub !  
-Je suis passionné par le **développement** et la création de projets innovants. 🚀
-
----
-
-## 🛠 Langages et Compétences
-
-```python
-class Coding([TonPseudo]):
-    def languages(self):
-        self.expert = ("Python", "HTML", "CSS", "SQL", "JavaScript", "Node.js", "React", "TypeScript")
-    
-    def interests(self):
-        self.enviroment = ("VSCode", "PyCharm", "Zed")
-        self.specialities = ("Développement Web", "Applications", "Automatisation")
-📌 À propos de moi
-🔭 Je suis développeur fullstack et passionné par la création d’applications web et scripts automatisés
-
-🌱 J’aime apprendre de nouvelles technologies et frameworks
-
-💬 N’hésite pas à me contacter pour collaborer ou discuter de projets intéressants
-
-🔗 Contact Discord
-Discord : TonPseudo#1234
-
-Serveur Discord : Rejoindre ici
-
-Merci de visiter mon profil ! 🌟
-
-yaml
-Copier le code
+Bienvenue sur mon profil GitHub !<br>
+Je suis passionné par le <i>développement</i> et la création de projets innovants. 🚀
 
 ---
 
-Si tu veux, je peux maintenant te faire **une version avec le widget Discord intégré directement dans le README**, comme Vinyzu, pour que ton statut en ligne apparaisse automatiquement.  
-Veux‑tu que je fasse ça ?
+<h2>🛠 Langages et Compétences</h2>
+
+<ul>
+  <li>Python</li>
+  <li>HTML / CSS</li>
+  <li>SQL</li>
+  <li>JavaScript / Node.js / React / TypeScript</li>
+</ul>
+
+---
+
+<h2>📌 À propos de moi</h2>
+
+<ul>
+  <li>Développeur fullstack</li>
+  <li>Passionné par la création d’applications web et scripts automatisés</li>
+  <li>J’aime apprendre de nouvelles technologies et frameworks</li>
+</ul>
+
+---
+
+<h2>🔗 Contact Discord</h2>
+
+- Discord : <a href="https://discord.com/users/TON_ID">TonPseudo#1234</a><br>
+- Serveur Discord : <a href="#">Rejoindre ici</a>
