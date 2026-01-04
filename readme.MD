@@ -1,32 +1,5 @@
-# Salut, je suis <b>[TonPseudo]</b> 👋
+# HI C YUZU
 
-Bienvenue sur mon profil GitHub !<br>
-Je suis passionné par le <i>développement</i> et la création de projets innovants. 🚀
-
----
-
-<h2>🛠 Langages et Compétences</h2>
-
-<ul>
-  <li>Python</li>
-  <li>HTML / CSS</li>
-  <li>SQL</li>
-  <li>JavaScript / Node.js / React / TypeScript</li>
-</ul>
-
----
-
-<h2>📌 À propos de moi</h2>
-
-<ul>
-  <li>Développeur fullstack</li>
-  <li>Passionné par la création d’applications web et scripts automatisés</li>
-  <li>J’aime apprendre de nouvelles technologies et frameworks</li>
-</ul>
-
----
-
-<h2>🔗 Contact Discord</h2>
-
-- Discord : <a href="https://discord.com/users/TON_ID">TonPseudo#1234</a><br>
-- Serveur Discord : <a href="#">Rejoindre ici</a>
+<a href="https://discord.com/users/1209544066862153729">
+<img src="https://cdn.discordapp.com/attachments/1447209262748012739/1457511631276736522/image.png?ex=695c44fc&is=695af37c&hm=77b62b27ef5b99b5c17c63fd76b65c99ed5427fa1bc4bf1fc48170dd6235ea9d&">
+</a>
