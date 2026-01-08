@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F600FF&width=435&lines=Hi+i'm+yuzu+i+want+die)](https://git.io/typing-svg)
      
  
-<a href="https://cdn.discordapp.com/attachments/1447209262748012739/1458780505813286934/image-removebg-preview_3.png?ex=6960e2b7&is=695f9137&hm=37bdec9d081f7fa95c1db07581d5b75f0cfec87cd104230d38a3e1b22809657c&"><img src="https://cdn.discordapp.com/attachments/1447209262748012739/1458781058827816970/image-removebg-preview_4.png?ex=6960e33b&is=695f91bb&hm=1520b445dffb53eb8c312845cb04f94adde36fb06acaf932a8b58964afa3b8ec&" width=350> </a>
+<a href="https://cdn.discordapp.com/attachments/1447209262748012739/1458780505813286934/image-removebg-preview_3.png?ex=6960e2b7&is=695f9137&hm=37bdec9d081f7fa95c1db07581d5b75f0cfec87cd104230d38a3e1b22809657c&"><img src="https://cdn.discordapp.com/attachments/1447209262748012739/1458785445969268858/Capture_decran_2026-01-08_123202-modified.png?ex=6960e751&is=695f95d1&hm=ce928b75cae1b63d8ab3ab26d1a8ac39bc8f9f2adb279003002ac755acf3899a&" width=350> </a>
 
 ## Devlopper 
 
