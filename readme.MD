@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F600FF&width=435&lines=Hi+i'm+yuzu+i+want+die)](https://git.io/typing-svg)
      
  
-<a href="https://cdn.discordapp.com/attachments/1447209262748012739/1458779664230387774/telechargement_15.jpg?ex=6960e1ee&is=695f906e&hm=d0e56afa5391b0a618f010160132d4ba090ba62ffb28ddb0fe52a8a909b29e66&" width="350" > </a>
+<a href="https://cdn.discordapp.com/attachments/1447209262748012739/1458780505813286934/image-removebg-preview_3.png?ex=6960e2b7&is=695f9137&hm=37bdec9d081f7fa95c1db07581d5b75f0cfec87cd104230d38a3e1b22809657c&" width="350" > </a>
 
 ## Devlopper 
 
