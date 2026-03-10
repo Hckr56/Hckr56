@@ -5,7 +5,9 @@
 </p>
 
 <div align="center">
+
 | Tech Stack | Dev Stack |
 |------------|-----------|
 | <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> |
+
 </div>
