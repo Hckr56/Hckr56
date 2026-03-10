@@ -3,3 +3,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=yo+i+wan't+to+die" alt="Typing SVG" />
   </a>
 </p>
+
+<h2 align="center">Dev Stack</h2>
+
+<p align="center">
+Frontend Development<br>
+React • Vite.js • HTML • CSS • JavaScript
+</p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+Node.js • Python • PostgreSQL • MySQL
+</p>
