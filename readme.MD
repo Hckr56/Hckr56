@@ -4,14 +4,6 @@
   </a>
 </p>
 
-<h2 align="center">Dev Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql" />
-</p>
+| Tech Stack | Dev Stack |
+|------------|-----------|
+| <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> |
